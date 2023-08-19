@@ -1,7 +1,6 @@
 package ArrayChapter1;
 
 public class selection_sort {
-
 	public static void main(String[] args) 
 	{
 		int a[]=new int[] {9,8,5,4,7,2},i,temp;
